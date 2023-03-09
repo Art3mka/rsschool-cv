@@ -22,3 +22,5 @@ const strConcat = (str1, str2) => {
 let resultString = strConcat('string #1', 'string #2')
 console.log(resultString)
 ```
+## __Experience__
+U can see my projects in my *[GitHub](https://github.com/Art3mka?tab=repositories)* profile
