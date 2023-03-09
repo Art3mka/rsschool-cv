@@ -24,3 +24,6 @@ console.log(resultString)
 ```
 ## __Experience__
 U can see my projects in my *[GitHub](https://github.com/Art3mka?tab=repositories)* profile
+## __Education__
+* Polessky State University
+* YouTube videos
