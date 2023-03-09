@@ -13,3 +13,12 @@ It is difficult for me to talk about myself, but I can say that I am a responsib
 * SCSS
 * Gulp (Basic)
 ## __Code Example__
+```
+const strConcat = (str1, str2) => {
+  const concatString = `${str1} ${str2}`
+  return concatString
+}
+
+let resultString = strConcat('string #1', 'string #2')
+console.log(resultString)
+```
