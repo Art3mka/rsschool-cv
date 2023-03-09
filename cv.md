@@ -27,3 +27,7 @@ U can see my projects in my *[GitHub](https://github.com/Art3mka?tab=repositorie
 ## __Education__
 * Polessky State University
 * YouTube videos
+## __Languages__
+* __English:__ A2-B1, also have communication experience with foreigners;
+* __Russian:__ Native;
+* __Belarussian:__ Native;
