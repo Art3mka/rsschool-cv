@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    color: #4D5053;
+    background-color: #000;
+    -webkit-font-smoothing: antialised;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+  }
+  
+  p {
+    margin: 0 0 0 0;
+  }
+  
+  *, *:after, *:before {
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+  }
+  
+  input {
+    outline: none;
+    outline-offset: none;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 0px;
+    padding: 0px;
+  }
+  
+  input:focus::placeholder {
+    opacity: 0;
+    -webkit-transition: opacity 0.3s ease;
+    transition: opacity 0.3s ease;
+  }
+  
+  .container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
