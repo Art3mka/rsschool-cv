@@ -1,9 +1,8 @@
 body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
-    font-size: 22px;
     color: #4D5053;
-    background-color: #000;
+    background-color: #fff;
     -webkit-font-smoothing: antialised;
   }
   
@@ -25,8 +24,8 @@ body {
     outline-offset: none;
     background-color: #ffffff;
     border: none;
-    border-radius: 0px;
-    padding: 0px;
+    border-radius: 0;
+    padding: 0;
   }
   
   input:focus::placeholder {
@@ -37,6 +36,31 @@ body {
   
   .container {
     width: 100%;
-    max-width: 1200px;
+    max-width: 75rem;
     margin: 0 auto;
+    padding: 0 0.5rem;
+  }
+
+  /*----------HEADER----------*/
+  .nav {
+    display: flex;
+    justify-content: space-between;  
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+  
+  .nav__link {
+    color: #828282;
+    text-decoration: none;
+    transition: color 0.2s linear;
+  }
+
+  .nav__link:hover {
+    color: #070707;
+  }
+  
+  /*HEADER*/
+  .header__inner {
+    padding: 1rem 0;
+    border-bottom: 1px solid #828282;
   }
