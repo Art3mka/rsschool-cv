@@ -98,11 +98,36 @@ body {
   .about__inner {
     text-align: center;
   }
-  .about__title {
 
+  /*-----------SKILLS----------*/
+  .skills {
+    padding-bottom: 100px;
   }
-  .about__subtitle {
-
+  .skills__text {
+    text-align: center;
+  }
+  .skills__subtitle {
+    padding-bottom: 4rem;
+  }
+  .skills__items {
+    display: flex;
+    justify-content: space-around;
+  }
+  .skills__item {
+    text-align: center;
+  }
+  .skills__item__img {
+    padding-bottom: 0.7rem;
+  }
+  .skills__item__title {
+    padding-bottom: 0.7rem;
+  }
+  .skills__item__level {
+    display: flex;
+    justify-content: center;
+  }
+  .skills__item__level img {
+    padding-left: 0.3rem;
   }
 
   /*----------COMMON---------*/
