@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Art3mka.github.io/rsschool-cv/
